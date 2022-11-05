@@ -19,4 +19,6 @@
 少しふるい記事だがやることに変わりはないと思う。
 
 ## 表示成功
-`nagasaka-hiroki.github.io`のリポジトリについてがよくわからないが、とりあえず表示に成功したので一旦終了とする。
+`nagasaka-hiroki.github.io`のリポジトリについてがよくわからないが、とりあえず表示に成功したので一旦終了とする。  
+このリポジトリのURLを以下に添付する。  
+> - [https://nagasaka-hiroki.github.io/github_pages_test/](https://nagasaka-hiroki.github.io/github_pages_test/)  
